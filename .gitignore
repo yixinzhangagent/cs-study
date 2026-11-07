@@ -1,0 +1,16 @@
+# Starter files 可从 cs61a.org 重新下载，不入库
+*.zip
+
+# Berkeley 自带的评测依赖（pytest 及插件），体积大且非本人产出
+.grader/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.DS_Store
+.vscode/
+.idea/
